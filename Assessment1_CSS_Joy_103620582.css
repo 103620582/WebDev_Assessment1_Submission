@@ -1,0 +1,67 @@
+
+.TopBox {
+    background-color: #263035;
+    padding-top:30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 2%;
+    margin-bottom: 0;
+    color: white;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    font-weight: normal;
+    padding-left: 2%;
+    margin-top: 0; 
+    color: white;
+}
+
+.pTop {
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding-left: 2%;
+    color: white;
+}
+
+.MiddleBox {
+    background-color: #3564aa;
+    padding-top:30px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.subHead {
+    font-size: small;
+    font-weight: bold;
+    padding-left: 2%;
+    color: white;
+}
+
+ul {
+    font-size: smaller;
+    font-weight: normal;
+    padding-left: 10%;
+    line-height: 19px;
+    color: white;
+   
+}
+
+.BottomBox {
+    background-color: #42A5F5;
+    padding-top:30px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
